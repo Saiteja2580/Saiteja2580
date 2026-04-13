@@ -94,13 +94,6 @@ Data extraction application with Next.js, leveraging the Gemini API and GenKit t
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiteja2580&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiteja2580&layout=compact&theme=radical)
-
----
 
 ## 📫 Let's Connect!
 
